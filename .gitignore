@@ -28,8 +28,6 @@ share/python-wheels/
 MANIFEST
 
 # PyInstaller
-# Usually these files are written by a python script from a template
-# before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 
@@ -77,7 +75,6 @@ target/
 .ipynb_checkpoints
 jupyter_notebooks/.ipynb_checkpoints/
 *.py[bc]
-# Exclude all Jupyter notebooks, remove the above line if you want to version control them
 
 # pyenv
 .python-version
@@ -132,7 +129,7 @@ cython_debug/
 *.xls
 *.xlsx
 *.json
-# Add other data formats you don't want to include in version control
+
 
 # Mac OS
 .DS_Store
