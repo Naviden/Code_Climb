@@ -77,7 +77,6 @@ target/
 .ipynb_checkpoints
 jupyter_notebooks/.ipynb_checkpoints/
 *.py[bc]
-*.ipynb
 # Exclude all Jupyter notebooks, remove the above line if you want to version control them
 
 # pyenv
