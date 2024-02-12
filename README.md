@@ -15,27 +15,9 @@ Our objective is to provide a comprehensive learning experience that encourages 
 - **Answers:** Alongside each question, you'll find an `answer` section that not only provides the solution but also explains the rationale behind it.
 - **Learning Materials:** If a question proves challenging, a `learn more` note will direct you to specific materials within the repository, such as tutorials, guides, and documentation, to deepen your understanding of the concept.
 
-## Table of Contents
-
-- Basics
-- Data Structures
-- Functions
-- Classes and Objects
-- Exception Handling
-- File I/O
-- Libraries and Frameworks
-- Data Science
-- Web Development
-- Testing
-- Best Practices
-
 ## Work in Progress
 
-This project is continuously evolving, with new questions, answers, and learning materials being added regularly. Here are some of the areas we're currently working on:
-
-- **Data Science Modules:** Expanding our coverage on Pandas, NumPy, and data visualization libraries.
-- **Web Development Frameworks:** Adding more questions and learning materials on Django and Flask.
-- **Asynchronous Programming:** Developing content to cover asyncio and other asynchronous programming paradigms in Python.
+This project is continuously evolving, with new questions, answers, and learning materials being added regularly. 
 
 Your contributions and feedback are highly valued as we work together to make Python Code Climb a rich and supportive learning resource.
 
