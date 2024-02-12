@@ -1,6 +1,7 @@
 # Python Code Climb
 
-![Python Code Climb Logo](Figures/logo.png)
+<img src="Figures/logo.png" alt="Python Code Climb Logo" width="200"/>
+
 
 Welcome to Python Code Climb, a learning-oriented repository designed to help you navigate through the intricacies of Python programming. This repository is structured around a series of questions covering various Python topics. Each question is not only a challenge but an opportunity to learn. Accompanying each question is a detailed answer and a reference to specific learning materials within the repository for further exploration.
 
